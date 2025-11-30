@@ -1,4 +1,4 @@
-Password Generator
+Password Generator:
 This is a simple Python script for generating random, secure passwords. It allows the user to specify the number of letters, symbols, and numbers they want in their password.
 
 Features:
