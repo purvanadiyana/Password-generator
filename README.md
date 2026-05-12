@@ -9,16 +9,3 @@ Two Generation Levels: Easy Level (Ordered): Generates a password where componen
 How to Run:
 Save the code---> Save the provided code as a Python file (e.g., password_generator.py).
 
-example output:
-welcome to the password generator
-how many letters would you like in your password?
-3
-How many symbols would you like?
-4
-how many symbols would you like?
-2
-easy level output:
-osq@$6225
-moderate level output:
-['h', 'm', 't', '7', '5', '9', '7', '#', '%']
-['7', 'h', 'm', '#', 't', '%', '7', '5', '9']
